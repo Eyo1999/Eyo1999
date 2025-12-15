@@ -1,4 +1,4 @@
-Hi, I’m Eyosias 👋
+### Hi, I’m Eyosias 👋
 
 I am a self-taught learner focused on Cloud Engineering and DevOps.
 
@@ -9,4 +9,4 @@ Currently, I am building strong foundations in:
 
 My long-term goal is to become a Cloud / DevOps Engineer who builds reliable, scalable systems and automation tools.
 
-I believe in consistency, discipline, and learning by doing.
+**I believe in consistency, discipline, and learning by doing.**
